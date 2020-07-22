@@ -1,1 +1,2 @@
-# tsn-cli
+
+npm i -g tsn-cli

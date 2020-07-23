@@ -1,6 +1,6 @@
 {
   "name": "tsn-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ts-node-template tool",
   "main": "index.js",
   "repository": "https://github.com/palxiao/typescript-node-template",
@@ -18,12 +18,6 @@
     "ora": "^4.0.3"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-standard": "^14.1.0",
-    "eslint-plugin-import": "^2.19.1",
-    "eslint-plugin-node": "^11.0.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1"
   },
   "keywords": [
     "node",

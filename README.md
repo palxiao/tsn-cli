@@ -1,7 +1,6 @@
 
 
 
-
     npm i -g tsn-cli
 
 
@@ -17,3 +16,9 @@ Simple Template: 包含express环境，mysql连接，typescript开发体验及we
 
     yarn
 
+
+
+发布 修改version
+
+    sh ./publish
+    

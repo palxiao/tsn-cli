@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "description": "ts-node-template tool",
   "main": "index.js",
-  "repository": "https://github.com/palxiao/typescript-node-template",
+  "repository": "https://github.com/palxiao/tsn-cli",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

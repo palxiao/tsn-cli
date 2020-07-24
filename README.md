@@ -1,5 +1,5 @@
 
-
+#### 个人node项目模板生成工具
 
     npm i -g tsn-cli
 
@@ -21,8 +21,10 @@
     yarn
 
 
+[更多详细查看项目文档](https://github.com/palxiao/typescript-node-template/blob/master/README.md)
 
-#### 发布 修改version
+
+#### 发布
 
     sh ./publish
     

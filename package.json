@@ -1,6 +1,6 @@
 {
   "name": "tsn-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ts-node-template tool",
   "main": "index.js",
   "repository": "https://github.com/palxiao/typescript-node-template",
@@ -22,7 +22,10 @@
   "keywords": [
     "node",
     "express",
-    "typescript"
+    "typescript",
+    "mysql",
+    "graphql",
+    "apiDoc"
   ],
   "author": "ShawnPhang",
   "license": "ISC"

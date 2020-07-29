@@ -3,9 +3,15 @@
 
     npm i -g tsn-cli
 
-
     tsn-cli init project-name
 
+    ...
+
+    cd project-name
+
+    yarn
+
+### node服务端
 
 #### Entire Template
 
@@ -15,13 +21,17 @@
 
 包含express环境，mysql连接，typescript开发体验及webpack打包
 
+### web客户端
 
-    cd project-name
+#### Simple Template
 
-    yarn
+包含Vue2.x vue-router vuex axios immutable dayjs，typescript开发体验（建议额外安装vue-cli，可执行vue ui可视化管理）
 
 
-[更多详细查看项目文档](https://github.com/palxiao/typescript-node-template/blob/master/README.md)
+
+
+[更多详情查看项目文档](https://github.com/palxiao/typescript-node-template/blob/master/README.md)
+
 
 
 #### 发布

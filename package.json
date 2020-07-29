@@ -1,6 +1,6 @@
 {
   "name": "tsn-cli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "ts-node-template tool",
   "main": "index.js",
   "repository": "https://github.com/palxiao/tsn-cli",
@@ -17,8 +17,7 @@
     "inquirer": "^7.0.1",
     "ora": "^4.0.3"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "keywords": [
     "node",
     "express",

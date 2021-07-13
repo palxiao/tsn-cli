@@ -1,7 +1,7 @@
 {
   "name": "tsn-cli",
-  "version": "1.1.0",
-  "description": "ts-node-template tool",
+  "version": "1.1.1",
+  "description": "fast create Web or Node template tool, all using by TS, include vue3+vite, vue2, express",
   "main": "index.js",
   "repository": "https://github.com/palxiao/tsn-cli",
   "scripts": {

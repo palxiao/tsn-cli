@@ -1,9 +1,19 @@
 
 ## 个人node项目模板生成工具
 
-    npm i -g tsn-cli
+### 安装
+```
+npm i -g tsn-cli
+```
+OR
+```
+yarn global add tsn-cli
+```
 
-    tsn-cli init project-name
+### 快速初始化一个空项目，目前已有6套模板
+```
+tsn-cli init project-name
+```
 
     ...
 
@@ -13,7 +23,7 @@
 
 ## Vue3 + vite
 
-包含三个初始化模板，pc整合elementPlus，mobile整合vant+css自适应
+包含三个初始化模板，PC安装了ElementPlus，移动端安装了vant+css自适应
 
 ## node服务端
 
@@ -29,8 +39,7 @@
 
 ### Simple Template
 
-包含Vue2.x vue-router vuex axios immutable dayjs，typescript开发体验（建议额外安装vue-cli，可执行vue ui可视化管理）
-
+包含Vue2.x vue-router vuex axios immutable dayjs，typescript开发体验
 
 
 

@@ -1,5 +1,5 @@
 
-#### 个人node项目模板生成工具
+## 个人node项目模板生成工具
 
     npm i -g tsn-cli
 
@@ -11,19 +11,23 @@
 
     yarn
 
-### node服务端
+## Vue3 + vite
 
-#### Entire Template
+包含三个初始化模板，pc整合elementPlus，mobile整合vant+css自适应
+
+## node服务端
+
+### Entire Template
 
 包含express环境，mysql连接，typescript开发体验及webpack打包，graphql示例，集成jwt验证
 
-#### Simple Template
+### Simple Template
 
 包含express环境，mysql连接，typescript开发体验及webpack打包
 
-### web客户端
+## web客户端
 
-#### Simple Template
+### Simple Template
 
 包含Vue2.x vue-router vuex axios immutable dayjs，typescript开发体验（建议额外安装vue-cli，可执行vue ui可视化管理）
 

@@ -1,6 +1,6 @@
 {
   "name": "tsn-cli",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "ts-node-template tool",
   "main": "index.js",
   "repository": "https://github.com/palxiao/tsn-cli",
@@ -19,7 +19,12 @@
   },
   "devDependencies": {},
   "keywords": [
-    "node",
+    "init",
+    "create",
+    "vue3",
+    "element",
+    "vant",
+    "vite",
     "express",
     "typescript",
     "mysql",
